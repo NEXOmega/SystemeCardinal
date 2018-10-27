@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NEXOmega/SystemeCardinal/issues"
   },
-  "homepage": "https://github.com/NEXOmega/SystemeCardinal#readme"
+  "homepage": "https://github.com/NEXOmega/SystemeCardinal#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
