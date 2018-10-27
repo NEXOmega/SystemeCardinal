@@ -1,0 +1,19 @@
+{
+  "name": "cardinal_bot",
+  "version": "1.0.0",
+  "description": "A cardinal Bot For SAO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEXOmega/SystemeCardinal.git"
+  },
+  "author": "NEXOmega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEXOmega/SystemeCardinal/issues"
+  },
+  "homepage": "https://github.com/NEXOmega/SystemeCardinal#readme"
+}
